@@ -9,7 +9,11 @@ Test this function by hand in the console to get it working, and when you think 
 
 // Write your code here
 function sum(a, b) { //eslint-disable-line
-
+  let mySum = sum(a, b) 
+    let sumStr = a + b;
+  
+  }
+  return [];
 }
 
 // Here is the test for sum(); uncomment it to run it
